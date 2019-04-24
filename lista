@@ -1,131 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13205
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6142
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/24628
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4403
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="CANAIS CULTURA",ANIMAL PLANET SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20887
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS CULTURA",DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11548
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS CULTURA",DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6132
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS CULTURA",DISCOVERY CHANNEL HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20824
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS CULTURA",DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4390
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="CANAIS CULTURA",DISCOVERY CHANNEL SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20825
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Civilization.png" group-title="CANAIS CULTURA",DISCOVERY CIVILIZATION FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13208
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Civilization.png" group-title="CANAIS CULTURA",DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/7862
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Civilization.png" group-title="CANAIS CULTURA",DISCOVERY CIVILIZATION HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20820
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Civilization.png" group-title="CANAIS CULTURA",DISCOVERY CIVILIZATION SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10236
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11533
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6131
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20813
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0040_discovery_hh.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HEALTH SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4389
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HELTH SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Home__Health_HD.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY HOME & HELTH SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20814
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11532
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/7538
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20816
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4388
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20818
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="CANAIS CULTURA",DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13206
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="CANAIS CULTURA",DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/7861
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="CANAIS CULTURA",DISCOVERY SCIENCE HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20811
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png" group-title="CANAIS CULTURA",DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10237
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="CANAIS CULTURA",DISCOVERY THEATER FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11530
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="CANAIS CULTURA",DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6130
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="CANAIS CULTURA",DISCOVERY THEATER HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20806
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="CANAIS CULTURA",DISCOVERY THEATER SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10289
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11531
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6877
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20808
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4386
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="CANAIS ENTRETENIMENTO",DISCOVERY TURBO SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20809
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="CANAIS CULTURA",DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6128
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="CANAIS CULTURA",DISCOVERY WORLD HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20801
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="DISCOVERY WORLD SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png" group-title="CANAIS CULTURA",DISCOVERY WORLD SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/10288
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png" group-title="CANAIS CULTURA",H2 FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13187
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png" group-title="CANAIS CULTURA",H2 HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6111
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png" group-title="CANAIS CULTURA",H2 HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20698
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png" group-title="CANAIS CULTURA",H2 SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4367
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-h2.png" group-title="CANAIS CULTURA",H2 SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20700
-#EXTINF:-1 tvg-id="History" tvg-name="HISTORY CHANNEL FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="CANAIS CULTURA",HISTORY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13211
-#EXTINF:-1 tvg-id="History" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="CANAIS CULTURA",HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6104
-#EXTINF:-1 tvg-id="History" tvg-name="HISTORY CHANNEL HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="CANAIS CULTURA",HISTORY CHANNEL HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20468
-#EXTINF:-1 tvg-id="History" tvg-name="HISTORY CHANNEL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="CANAIS CULTURA",HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4314
-#EXTINF:-1 tvg-id="History" tvg-name="HISTORY CHANNEL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/History_Channel.png" group-title="CANAIS CULTURA",HISTORY CHANNEL SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20469
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID - INVESTIGACAO DISCOVERY FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png" group-title="CANAIS CULTURA",ID - INVESTIGACAO DISCOVERY FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/9143
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png" group-title="CANAIS CULTURA",ID - INVESTIGACAO DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6869
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID - INVESTIGACAO DISCOVERY HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png" group-title="CANAIS CULTURA",ID - INVESTIGACAO DISCOVERY HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20672
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID - INVESTIGACAO DISCOVERY SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png" group-title="CANAIS CULTURA",ID - INVESTIGACAO DISCOVERY SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4360
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="ID - INVESTIGACAO DISCOVERY SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0037_investigation_discovery.png" group-title="CANAIS CULTURA",ID - INVESTIGACAO DISCOVERY SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20673
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png" group-title="CANAIS CULTURA",NATGEO WILD FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/11528
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png" group-title="CANAIS CULTURA",NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6099
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png" group-title="CANAIS CULTURA",NATGEO WILD HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20640
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png" group-title="CANAIS CULTURA",NATGEO WILD SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4349
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatGeo_Wild.png" group-title="CANAIS CULTURA",NATGEO WILD SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20641
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHY HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CANAIS CULTURA",NATIONAL GEOGRAPHY HD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/6098
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHY HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CANAIS CULTURA",NATIONAL GEOGRAPHY HD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20629
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHY SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CANAIS CULTURA",NATIONAL GEOGRAPHY SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/4348
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHY SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CANAIS CULTURA",NATIONAL GEOGRAPHY SD*
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/20630
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="NATIONAL GEOGRAPHY FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png" group-title="CANAIS CULTURA",NATIONAL GEOGRAPHY FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/carina/carina/13188
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="BR:Animal Planet HD." tvg-logo="https://3.bp.blogspot.com/-V5EiGRN9eds/WqvTLtkVfnI/AAAAAAAAAZY/yCBS2g5dbxYCydcCq6z2z52WGAwgt2U5ACLcBGAs/s1600/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="DOCUMENTARIOS",BR:Animal Planet HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141990
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="BR:Animal Planet SD" tvg-logo="https://3.bp.blogspot.com/-V5EiGRN9eds/WqvTLtkVfnI/AAAAAAAAAZY/yCBS2g5dbxYCydcCq6z2z52WGAwgt2U5ACLcBGAs/s1600/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="DOCUMENTARIOS",BR:Animal Planet SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141991
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="BR:Discovery Channel Principal HD." tvg-logo="https://4.bp.blogspot.com/-4lm6KkMr0QU/WqvTTQ3UpyI/AAAAAAAAAao/RcLzguX61hInl9BGA8nmrLxNh0993wXpwCLcBGAs/s1600/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="DOCUMENTARIOS",BR:Discovery Channel Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141947
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="BR:Discovery Channel SD." tvg-logo="https://4.bp.blogspot.com/-4lm6KkMr0QU/WqvTTQ3UpyI/AAAAAAAAAao/RcLzguX61hInl9BGA8nmrLxNh0993wXpwCLcBGAs/s1600/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="DOCUMENTARIOS",BR:Discovery Channel SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141948
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="BR:Discovery Civilization HD." tvg-logo="https://4.bp.blogspot.com/-0HOOXRalJXM/WqvTTj68VzI/AAAAAAAAAas/1_gLf0aGaLQrhs1d4STDAwO51h_pj1wAQCLcBGAs/s1600/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="DOCUMENTARIOS",BR:Discovery Civilization HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141944
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="BR:Discovery Civilization SD." tvg-logo="https://4.bp.blogspot.com/-0HOOXRalJXM/WqvTTj68VzI/AAAAAAAAAas/1_gLf0aGaLQrhs1d4STDAwO51h_pj1wAQCLcBGAs/s1600/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="DOCUMENTARIOS",BR:Discovery Civilization SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141945
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="BR:Discovery H&H Principal HD." tvg-logo="https://1.bp.blogspot.com/-5xW5E9gikIs/WqvTT9mx9LI/AAAAAAAAAaw/9LEJTdXpaaQrRzTS_AfGssquBlCM-NVIwCLcBGAs/s1600/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="DOCUMENTARIOS",BR:Discovery H&H Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141942
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="BR:Discovery H&H SD." tvg-logo="https://1.bp.blogspot.com/-5xW5E9gikIs/WqvTT9mx9LI/AAAAAAAAAaw/9LEJTdXpaaQrRzTS_AfGssquBlCM-NVIwCLcBGAs/s1600/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="DOCUMENTARIOS",BR:Discovery H&H SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141943
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="BR:DISCOVERY SCIENCE HD." tvg-logo="https://2.bp.blogspot.com/-0qLpdaSe4vo/WqvTU4xLavI/AAAAAAAAAa4/SdOfQhN__GARBGtTPHUNfHywpcV9dUYugCLcBGAs/s1600/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="DOCUMENTARIOS",BR:DISCOVERY SCIENCE HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141939
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="BR:Discovery Science SD." tvg-logo="https://2.bp.blogspot.com/-0qLpdaSe4vo/WqvTU4xLavI/AAAAAAAAAa4/SdOfQhN__GARBGtTPHUNfHywpcV9dUYugCLcBGAs/s1600/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="DOCUMENTARIOS",BR:Discovery Science SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141938
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="BR:Discovery Theater HD." tvg-logo="https://2.bp.blogspot.com/-leJj6Ou90lE/WqvTVas8DhI/AAAAAAAAAa8/pK-sAAuYYHA9FZs1iK2aG4UMq-E2hx7KACLcBGAs/s1600/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="DOCUMENTARIOS",BR:Discovery Theater HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141937
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="BR:Discovery Turbo Principal HD." tvg-logo="https://3.bp.blogspot.com/-HeTcLa9Ufvs/WqvTV8MzpdI/AAAAAAAAAbA/gkNjcsLh1aQBuUMGzPJu-u5oqAlVPbu_wCLcBGAs/s1600/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="DOCUMENTARIOS",BR:Discovery Turbo Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141933
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="BR:Discovery Turbo SD." tvg-logo="https://3.bp.blogspot.com/-HeTcLa9Ufvs/WqvTV8MzpdI/AAAAAAAAAbA/gkNjcsLh1aQBuUMGzPJu-u5oqAlVPbu_wCLcBGAs/s1600/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="DOCUMENTARIOS",BR:Discovery Turbo SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141934
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="BR:Discovery World HD." tvg-logo="https://3.bp.blogspot.com/-zjkA-tiOcJk/WqvTWZkopNI/AAAAAAAAAbE/FMMt_51vv5cms4w_1-R4sZiwvRDMEH6egCLcBGAs/s1600/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="DOCUMENTARIOS",BR:Discovery World HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141935
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="BR:Discovery World SD." tvg-logo="https://3.bp.blogspot.com/-zjkA-tiOcJk/WqvTWZkopNI/AAAAAAAAAbE/FMMt_51vv5cms4w_1-R4sZiwvRDMEH6egCLcBGAs/s1600/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="DOCUMENTARIOS",BR:Discovery World SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141936
+#EXTINF:-1 tvg-id="H2.br" tvg-name="BR:H2 HD." tvg-logo="https://2.bp.blogspot.com/-7qBKMknkSLM/WqvTiXv0BoI/AAAAAAAAAc0/CIPUqodz0Xc5eSQ59Ww6UNSAkqb-we2zQCLcBGAs/s1600/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="DOCUMENTARIOS",BR:H2 HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141859
+#EXTINF:-1 tvg-id="H2.br" tvg-name="BR:H2 SD." tvg-logo="https://2.bp.blogspot.com/-7qBKMknkSLM/WqvTiXv0BoI/AAAAAAAAAc0/CIPUqodz0Xc5eSQ59Ww6UNSAkqb-we2zQCLcBGAs/s1600/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="DOCUMENTARIOS",BR:H2 SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141860
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR: History FHD" tvg-logo="https://1.bp.blogspot.com/-lXUqd4FzEZQ/WqvT5pX4F5I/AAAAAAAAAgo/RB_OEbrwpgUODMPndmIniZn5Iq8creX7gCLcBGAs/s1600/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="DOCUMENTARIOS",BR: History FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153738
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR:History Channel Principal HD." tvg-logo="https://1.bp.blogspot.com/-lXUqd4FzEZQ/WqvT5pX4F5I/AAAAAAAAAgo/RB_OEbrwpgUODMPndmIniZn5Iq8creX7gCLcBGAs/s1600/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="DOCUMENTARIOS",BR:History Channel Principal HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141843
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR:History Channel SD." tvg-logo="https://1.bp.blogspot.com/-lXUqd4FzEZQ/WqvT5pX4F5I/AAAAAAAAAgo/RB_OEbrwpgUODMPndmIniZn5Iq8creX7gCLcBGAs/s1600/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="DOCUMENTARIOS",BR:History Channel SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141844
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="BR:Investigação Discovery HD." tvg-logo="https://3.bp.blogspot.com/-jqX3QGIWoa4/WqvTmLSn-JI/AAAAAAAAAdU/jQZQRWFzoKIItPlh9dTJALU2AoYZ5mGnQCLcBGAs/s1600/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="DOCUMENTARIOS",BR:Investigação Discovery HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141930
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="BR:Investigação Discovery SD." tvg-logo="https://3.bp.blogspot.com/-jqX3QGIWoa4/WqvTmLSn-JI/AAAAAAAAAdU/jQZQRWFzoKIItPlh9dTJALU2AoYZ5mGnQCLcBGAs/s1600/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="DOCUMENTARIOS",BR:Investigação Discovery SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141931
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="BR:NatGeo Wild HD." tvg-logo="https://3.bp.blogspot.com/-42UIMlKbD-g/WqvTpAtFIPI/AAAAAAAAAd4/n1Xxsuc90D0eb0TGIPrKb8s9GtzdWLe4gCLcBGAs/s1600/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="DOCUMENTARIOS",BR:NatGeo Wild HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141823
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="BR:NatGeo Wild SD." tvg-logo="https://3.bp.blogspot.com/-42UIMlKbD-g/WqvTpAtFIPI/AAAAAAAAAd4/n1Xxsuc90D0eb0TGIPrKb8s9GtzdWLe4gCLcBGAs/s1600/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="DOCUMENTARIOS",BR:NatGeo Wild SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141824
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="BR: Nat Geo FHD" tvg-logo="https://2.bp.blogspot.com/-WU8bewdQWlM/WqvTprsQO8I/AAAAAAAAAeE/7HV1b_K08NwYu9fB0OcEwumFa8muMjU-ACLcBGAs/s1600/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="DOCUMENTARIOS",BR: Nat Geo FHD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/153736
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="BR:National Geographic HD." tvg-logo="https://2.bp.blogspot.com/-WU8bewdQWlM/WqvTprsQO8I/AAAAAAAAAeE/7HV1b_K08NwYu9fB0OcEwumFa8muMjU-ACLcBGAs/s1600/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="DOCUMENTARIOS",BR:National Geographic HD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141821
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="BR:National Geographic SD." tvg-logo="https://2.bp.blogspot.com/-WU8bewdQWlM/WqvTprsQO8I/AAAAAAAAAeE/7HV1b_K08NwYu9fB0OcEwumFa8muMjU-ACLcBGAs/s1600/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="DOCUMENTARIOS",BR:National Geographic SD.
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/diamante/diamante/141822
