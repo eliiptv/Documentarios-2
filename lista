@@ -1,55 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="BR:Animal Planet HD." tvg-logo="https://3.bp.blogspot.com/-V5EiGRN9eds/WqvTLtkVfnI/AAAAAAAAAZY/yCBS2g5dbxYCydcCq6z2z52WGAwgt2U5ACLcBGAs/s1600/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="DOCUMENTARIOS",BR:Animal Planet HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141990
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="BR:Animal Planet SD" tvg-logo="https://3.bp.blogspot.com/-V5EiGRN9eds/WqvTLtkVfnI/AAAAAAAAAZY/yCBS2g5dbxYCydcCq6z2z52WGAwgt2U5ACLcBGAs/s1600/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="DOCUMENTARIOS",BR:Animal Planet SD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141991
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="BR:Discovery Channel Principal HD." tvg-logo="https://4.bp.blogspot.com/-4lm6KkMr0QU/WqvTTQ3UpyI/AAAAAAAAAao/RcLzguX61hInl9BGA8nmrLxNh0993wXpwCLcBGAs/s1600/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="DOCUMENTARIOS",BR:Discovery Channel Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141947
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="BR:Discovery Channel SD." tvg-logo="https://4.bp.blogspot.com/-4lm6KkMr0QU/WqvTTQ3UpyI/AAAAAAAAAao/RcLzguX61hInl9BGA8nmrLxNh0993wXpwCLcBGAs/s1600/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.png" group-title="DOCUMENTARIOS",BR:Discovery Channel SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141948
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="BR:Discovery Civilization HD." tvg-logo="https://4.bp.blogspot.com/-0HOOXRalJXM/WqvTTj68VzI/AAAAAAAAAas/1_gLf0aGaLQrhs1d4STDAwO51h_pj1wAQCLcBGAs/s1600/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="DOCUMENTARIOS",BR:Discovery Civilization HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141944
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="BR:Discovery Civilization SD." tvg-logo="https://4.bp.blogspot.com/-0HOOXRalJXM/WqvTTj68VzI/AAAAAAAAAas/1_gLf0aGaLQrhs1d4STDAwO51h_pj1wAQCLcBGAs/s1600/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.png" group-title="DOCUMENTARIOS",BR:Discovery Civilization SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141945
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="BR:Discovery H&H Principal HD." tvg-logo="https://1.bp.blogspot.com/-5xW5E9gikIs/WqvTT9mx9LI/AAAAAAAAAaw/9LEJTdXpaaQrRzTS_AfGssquBlCM-NVIwCLcBGAs/s1600/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="DOCUMENTARIOS",BR:Discovery H&H Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141942
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="BR:Discovery H&H SD." tvg-logo="https://1.bp.blogspot.com/-5xW5E9gikIs/WqvTT9mx9LI/AAAAAAAAAaw/9LEJTdXpaaQrRzTS_AfGssquBlCM-NVIwCLcBGAs/s1600/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="DOCUMENTARIOS",BR:Discovery H&H SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141943
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="BR:DISCOVERY SCIENCE HD." tvg-logo="https://2.bp.blogspot.com/-0qLpdaSe4vo/WqvTU4xLavI/AAAAAAAAAa4/SdOfQhN__GARBGtTPHUNfHywpcV9dUYugCLcBGAs/s1600/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="DOCUMENTARIOS",BR:DISCOVERY SCIENCE HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141939
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="BR:Discovery Science SD." tvg-logo="https://2.bp.blogspot.com/-0qLpdaSe4vo/WqvTU4xLavI/AAAAAAAAAa4/SdOfQhN__GARBGtTPHUNfHywpcV9dUYugCLcBGAs/s1600/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="DOCUMENTARIOS",BR:Discovery Science SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141938
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="BR:Discovery Theater HD." tvg-logo="https://2.bp.blogspot.com/-leJj6Ou90lE/WqvTVas8DhI/AAAAAAAAAa8/pK-sAAuYYHA9FZs1iK2aG4UMq-E2hx7KACLcBGAs/s1600/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.png" group-title="DOCUMENTARIOS",BR:Discovery Theater HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141937
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="BR:Discovery Turbo Principal HD." tvg-logo="https://3.bp.blogspot.com/-HeTcLa9Ufvs/WqvTV8MzpdI/AAAAAAAAAbA/gkNjcsLh1aQBuUMGzPJu-u5oqAlVPbu_wCLcBGAs/s1600/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="DOCUMENTARIOS",BR:Discovery Turbo Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141933
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="BR:Discovery Turbo SD." tvg-logo="https://3.bp.blogspot.com/-HeTcLa9Ufvs/WqvTV8MzpdI/AAAAAAAAAbA/gkNjcsLh1aQBuUMGzPJu-u5oqAlVPbu_wCLcBGAs/s1600/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.png" group-title="DOCUMENTARIOS",BR:Discovery Turbo SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141934
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="BR:Discovery World HD." tvg-logo="https://3.bp.blogspot.com/-zjkA-tiOcJk/WqvTWZkopNI/AAAAAAAAAbE/FMMt_51vv5cms4w_1-R4sZiwvRDMEH6egCLcBGAs/s1600/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="DOCUMENTARIOS",BR:Discovery World HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141935
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="BR:Discovery World SD." tvg-logo="https://3.bp.blogspot.com/-zjkA-tiOcJk/WqvTWZkopNI/AAAAAAAAAbE/FMMt_51vv5cms4w_1-R4sZiwvRDMEH6egCLcBGAs/s1600/1516305094_516d89d1f346643f27d856707cf1384a24455144.png" group-title="DOCUMENTARIOS",BR:Discovery World SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141936
-#EXTINF:-1 tvg-id="H2.br" tvg-name="BR:H2 HD." tvg-logo="https://2.bp.blogspot.com/-7qBKMknkSLM/WqvTiXv0BoI/AAAAAAAAAc0/CIPUqodz0Xc5eSQ59Ww6UNSAkqb-we2zQCLcBGAs/s1600/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="DOCUMENTARIOS",BR:H2 HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141859
-#EXTINF:-1 tvg-id="H2.br" tvg-name="BR:H2 SD." tvg-logo="https://2.bp.blogspot.com/-7qBKMknkSLM/WqvTiXv0BoI/AAAAAAAAAc0/CIPUqodz0Xc5eSQ59Ww6UNSAkqb-we2zQCLcBGAs/s1600/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.png" group-title="DOCUMENTARIOS",BR:H2 SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141860
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR: History FHD" tvg-logo="https://1.bp.blogspot.com/-lXUqd4FzEZQ/WqvT5pX4F5I/AAAAAAAAAgo/RB_OEbrwpgUODMPndmIniZn5Iq8creX7gCLcBGAs/s1600/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="DOCUMENTARIOS",BR: History FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153738
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR:History Channel Principal HD." tvg-logo="https://1.bp.blogspot.com/-lXUqd4FzEZQ/WqvT5pX4F5I/AAAAAAAAAgo/RB_OEbrwpgUODMPndmIniZn5Iq8creX7gCLcBGAs/s1600/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="DOCUMENTARIOS",BR:History Channel Principal HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141843
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR:History Channel SD." tvg-logo="https://1.bp.blogspot.com/-lXUqd4FzEZQ/WqvT5pX4F5I/AAAAAAAAAgo/RB_OEbrwpgUODMPndmIniZn5Iq8creX7gCLcBGAs/s1600/1516361934_5cd0838fbf66c6c1499b637579b89fb891f732c0.png" group-title="DOCUMENTARIOS",BR:History Channel SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141844
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="BR:Investigação Discovery HD." tvg-logo="https://3.bp.blogspot.com/-jqX3QGIWoa4/WqvTmLSn-JI/AAAAAAAAAdU/jQZQRWFzoKIItPlh9dTJALU2AoYZ5mGnQCLcBGAs/s1600/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="DOCUMENTARIOS",BR:Investigação Discovery HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141930
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="BR:Investigação Discovery SD." tvg-logo="https://3.bp.blogspot.com/-jqX3QGIWoa4/WqvTmLSn-JI/AAAAAAAAAdU/jQZQRWFzoKIItPlh9dTJALU2AoYZ5mGnQCLcBGAs/s1600/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.png" group-title="DOCUMENTARIOS",BR:Investigação Discovery SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141931
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="BR:NatGeo Wild HD." tvg-logo="https://3.bp.blogspot.com/-42UIMlKbD-g/WqvTpAtFIPI/AAAAAAAAAd4/n1Xxsuc90D0eb0TGIPrKb8s9GtzdWLe4gCLcBGAs/s1600/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="DOCUMENTARIOS",BR:NatGeo Wild HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141823
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="BR:NatGeo Wild SD." tvg-logo="https://3.bp.blogspot.com/-42UIMlKbD-g/WqvTpAtFIPI/AAAAAAAAAd4/n1Xxsuc90D0eb0TGIPrKb8s9GtzdWLe4gCLcBGAs/s1600/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.png" group-title="DOCUMENTARIOS",BR:NatGeo Wild SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141824
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="BR: Nat Geo FHD" tvg-logo="https://2.bp.blogspot.com/-WU8bewdQWlM/WqvTprsQO8I/AAAAAAAAAeE/7HV1b_K08NwYu9fB0OcEwumFa8muMjU-ACLcBGAs/s1600/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="DOCUMENTARIOS",BR: Nat Geo FHD
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/153736
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="BR:National Geographic HD." tvg-logo="https://2.bp.blogspot.com/-WU8bewdQWlM/WqvTprsQO8I/AAAAAAAAAeE/7HV1b_K08NwYu9fB0OcEwumFa8muMjU-ACLcBGAs/s1600/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="DOCUMENTARIOS",BR:National Geographic HD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141821
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="BR:National Geographic SD." tvg-logo="https://2.bp.blogspot.com/-WU8bewdQWlM/WqvTprsQO8I/AAAAAAAAAeE/7HV1b_K08NwYu9fB0OcEwumFa8muMjU-ACLcBGAs/s1600/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.png" group-title="DOCUMENTARIOS",BR:National Geographic SD.
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://fonte.iptvmaishd.com:25461/4963/4963/141822
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name=".Animal Planet HD" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="DOCUMENTARIOS",.Animal Planet HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3923
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name=".Animal Planet SD" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="DOCUMENTARIOS",.Animal Planet SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3922
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name=".Discovery Channel HD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/865/full/Discovery_Channel_logo.png" group-title="DOCUMENTARIOS",.Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3887
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name=".Discovery Channel SD" tvg-logo="https://uploaddeimagens.com.br/images/001/367/865/full/Discovery_Channel_logo.png" group-title="DOCUMENTARIOS",.Discovery Channel SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3886
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name=".Discovery Civilization SD" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20180604120823" group-title="DOCUMENTARIOS",.Discovery Civilization SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3884
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name=".Discovery Home & Health HD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/784/full/_0040_discovery_hh.png?1523471323" group-title="DOCUMENTARIOS",.Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3883
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name=".Discovery Home & Health SD" tvg-logo="https://uploaddeimagens.com.br/images/001/368/784/full/_0040_discovery_hh.png?1523471323" group-title="DOCUMENTARIOS",.Discovery Home & Health SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3882
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name=".Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="DOCUMENTARIOS",.Discovery Science HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3879
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name=".Discovery Science SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="DOCUMENTARIOS",.Discovery Science SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3878
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name=".Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIOS",.Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3877
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name=".Discovery theater SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIOS",.Discovery theater SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3876
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name=".Discovery Turbo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTARIOS",.Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3875
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name=".Discovery Turbo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTARIOS",.Discovery Turbo SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3874
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name=".Discovery World HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="DOCUMENTARIOS",.Discovery World HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3873
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name=".Discovery World SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="DOCUMENTARIOS",.Discovery World SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3872
+#EXTINF:-1 tvg-id="H2.br" tvg-name=".H2 HD" tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/styles/medium/s3/network-images/HISTORY2.png" group-title="DOCUMENTARIOS",.H2 HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3827
+#EXTINF:-1 tvg-id="H2.br" tvg-name=".H2 SD" tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/styles/medium/s3/network-images/HISTORY2.png" group-title="DOCUMENTARIOS",.H2 SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3826
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name=".Investigação Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTARIOS",.Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3811
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name=".Investigação Discovery SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="DOCUMENTARIOS",.Investigação Discovery SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3810
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name=".NatGeo Wild HD" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png" group-title="DOCUMENTARIOS",.NatGeo Wild HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3789
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name=".NatGeo Wild SD" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png" group-title="DOCUMENTARIOS",.NatGeo Wild SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3788
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name=".National Geographic HD" tvg-logo="https://logoeps.com/wp-content/uploads/2011/06/National-Geographic-logo.png" group-title="DOCUMENTARIOS",.National Geographic HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3787
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name=".National Geographic SD" tvg-logo="https://logoeps.com/wp-content/uploads/2011/06/National-Geographic-logo.png" group-title="DOCUMENTARIOS",.National Geographic SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3786
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name=".The History Channel HD" tvg-logo="https://uploaddeimagens.com.br/images/001/366/031/full/History_Channel_Logo.png?1523333018" group-title="DOCUMENTARIOS",.The History Channel HD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3813
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name=".The History Channel SD" tvg-logo="https://uploaddeimagens.com.br/images/001/366/031/full/History_Channel_Logo.png?1523333018" group-title="DOCUMENTARIOS",.The History Channel SD
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://pndxt01.dyndns.org:25461/Claudio/Claudio/3812
